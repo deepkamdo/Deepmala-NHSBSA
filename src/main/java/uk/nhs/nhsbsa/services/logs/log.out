@@ -1,0 +1,209 @@
+2022-09-10 22:09:862 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-10 22:09:226 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-10 22:09:235 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-10 22:09:874 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-10 22:09:225 INFO  StartPage :41 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (b5527622ba1b3edddc4b0c69ce5000bd)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-10 22:09:501 INFO  StartPage :45 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (b5527622ba1b3edddc4b0c69ce5000bd)] -> id: next-button]
+2022-09-10 22:09:416 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-10 22:09:834 INFO  StartPage :41 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (a411c4fb5a339109258ed6a83bde0997)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-10 22:09:163 INFO  StartPage :45 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (a411c4fb5a339109258ed6a83bde0997)] -> id: next-button]
+2022-09-10 23:09:223 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-10 23:09:433 INFO  StartPage :41 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (b78bfcccb5bc9a9fb783a56dc6d8e0c1)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-10 23:09:195 INFO  StartPage :45 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (b78bfcccb5bc9a9fb783a56dc6d8e0c1)] -> id: next-button]
+2022-09-10 23:09:341 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-10 23:09:521 INFO  StartPage :41 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (2ee22ae0c16c819eef3755ea772d6bd3)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-10 23:09:536 INFO  StartPage :45 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (2ee22ae0c16c819eef3755ea772d6bd3)] -> id: next-button]
+2022-09-10 23:09:988 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-10 23:09:73 INFO  StartPage :41 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (3b0c746e29dda894e113a65b72224b70)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-10 23:09:876 INFO  StartPage :45 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (3b0c746e29dda894e113a65b72224b70)] -> id: next-button]
+2022-09-10 23:09:898 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-10 23:09:108 INFO  StartPage :41 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (1eac66eae8de84e0ec3e342c0a67db09)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-10 23:09:825 INFO  StartPage :45 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (1eac66eae8de84e0ec3e342c0a67db09)] -> id: next-button]
+2022-09-10 23:09:645 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-10 23:09:47 INFO  StartPage :41 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (8f56c3c8a81cd298e785572a3aa178c9)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-10 23:09:588 INFO  StartPage :45 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (8f56c3c8a81cd298e785572a3aa178c9)] -> id: next-button]
+2022-09-10 23:09:83 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-10 23:09:272 INFO  StartPage :41 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (1c138b863015326ccef101f0d98a8e80)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-10 23:09:173 INFO  StartPage :45 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (1c138b863015326ccef101f0d98a8e80)] -> id: next-button]
+2022-09-10 23:09:315 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-10 23:09:272 INFO  StartPage :41 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (8a4773e4a9ca14e23635f938b17b17ae)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-10 23:09:10 INFO  StartPage :45 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (8a4773e4a9ca14e23635f938b17b17ae)] -> id: next-button]
+2022-09-10 23:09:989 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-10 23:09:313 INFO  StartPage :41 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (a2789f388cd8ff731571291a0fc41f5b)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-10 23:09:874 INFO  StartPage :45 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (a2789f388cd8ff731571291a0fc41f5b)] -> id: next-button]
+2022-09-11 00:09:42 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 00:09:405 INFO  StartPage :47 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (fc76a73fde8941e78b553318f30f14d2)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 00:09:426 INFO  StartPage :51 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (fc76a73fde8941e78b553318f30f14d2)] -> id: next-button]
+2022-09-11 00:09:342 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 00:09:664 INFO  StartPage :59 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (3409daa71c478f0c4ddacc33038083ca)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 00:09:800 INFO  StartPage :63 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (3409daa71c478f0c4ddacc33038083ca)] -> id: next-button]
+2022-09-11 00:09:609 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 00:09:591 INFO  StartPage :59 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (263b7ad15ea56392322638f0f3c73e6f)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 00:09:653 INFO  StartPage :63 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (263b7ad15ea56392322638f0f3c73e6f)] -> id: next-button]
+2022-09-11 00:09:350 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 00:09:185 INFO  StartPage :59 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (46faa85d6cc5b5f4a1ef00f76008ec88)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 00:09:992 INFO  StartPage :63 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (46faa85d6cc5b5f4a1ef00f76008ec88)] -> id: next-button]
+2022-09-11 00:09:448 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 00:09:723 INFO  StartPage :62 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (19188096dc3971890fd5745465bfc5e5)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 00:09:330 INFO  StartPage :67 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (19188096dc3971890fd5745465bfc5e5)] -> id: next-button]
+2022-09-11 00:09:863 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 00:09:940 INFO  StartPage :62 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (ee87dc490c2f304a93b3265f2e3c050a)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 00:09:263 INFO  StartPage :67 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (ee87dc490c2f304a93b3265f2e3c050a)] -> id: next-button]
+2022-09-11 00:09:02 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 00:09:700 INFO  StartPage :62 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (97ec61b1e2748e9ed2cf579df0ae9649)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 00:09:951 INFO  StartPage :67 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (97ec61b1e2748e9ed2cf579df0ae9649)] -> id: next-button]
+2022-09-11 00:09:602 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 00:09:814 INFO  StartPage :67 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (07b9f468efb9f2f2f3722bf4353f2abc)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 00:09:28 INFO  StartPage :72 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (07b9f468efb9f2f2f3722bf4353f2abc)] -> id: next-button]
+2022-09-11 00:09:107 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 00:09:562 INFO  StartPage :67 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (2d85308738177812577f371c8b8babad)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 00:09:190 INFO  StartPage :72 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (2d85308738177812577f371c8b8babad)] -> id: next-button]
+2022-09-11 01:09:673 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 01:09:819 INFO  StartPage :67 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (424d9572a3528077d0f983d55a3d9804)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 01:09:805 INFO  StartPage :72 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (424d9572a3528077d0f983d55a3d9804)] -> id: next-button]
+2022-09-11 11:09:438 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 11:09:346 INFO  StartPage :71 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (9ecfe60e45a68ea2fbda1e83b2690c26)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 11:09:977 INFO  StartPage :76 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (9ecfe60e45a68ea2fbda1e83b2690c26)] -> id: next-button]
+2022-09-11 11:09:946 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 11:09:846 INFO  StartPage :71 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (681349d4c1857de0a78c1e57001b503d)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 11:09:730 INFO  StartPage :76 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (681349d4c1857de0a78c1e57001b503d)] -> id: next-button]
+2022-09-11 13:09:687 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 13:09:829 INFO  StartPage :71 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (c73c55c5a6a3ad43a694f05e2f6c1801)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 13:09:505 INFO  StartPage :76 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (c73c55c5a6a3ad43a694f05e2f6c1801)] -> id: next-button]
+2022-09-11 14:09:07 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 14:09:492 INFO  StartPage :70 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 14:09:706 INFO  StartPage :75 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> id: next-button]
+2022-09-11 14:09:120 INFO  StartPage :86 - Clicking on the 'WalesCountry' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //label[@id='label-wales']]
+2022-09-11 14:09:769 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:456 INFO  StartPage :91 - Clicking on the 'YesButton' button: Proxy element for: DefaultElementLocator 'By.xpath: //label[@id='label-wales']'
+2022-09-11 15:09:407 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:770 INFO  StartPage :102 - Clicking on the 'DentalPractice: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //label[@id='label-wales']]
+2022-09-11 15:09:700 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:728 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:35 INFO  StartPage :91 - Clicking on the 'YesButton' button: Proxy element for: DefaultElementLocator 'By.xpath: //label[@id='label-wales']'
+2022-09-11 15:09:666 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:09 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:269 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:686 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:965 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:312 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:57 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:423 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:538 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:952 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:45 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:164 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:843 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:09 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:853 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (bd34ccf5f8b52e4ce5a42fa3d4a7b6ff)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:271 INFO  StartPage :65 - get Text From Help With nhs CostsProxy element for: DefaultElementLocator 'By.xpath: /body/main[@id='content']/div[3]/div[1]/div[1]/h2[1]'
+2022-09-11 15:09:648 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 15:09:812 INFO  StartPage :70 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 15:09:975 INFO  StartPage :75 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> id: next-button]
+2022-09-11 15:09:386 INFO  StartPage :86 - Clicking on the 'WalesCountry' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //label[@id='label-wales']]
+2022-09-11 15:09:238 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:505 INFO  StartPage :91 - Clicking on the 'YesButton' button: Proxy element for: DefaultElementLocator 'By.xpath: //label[@id='label-wales']'
+2022-09-11 15:09:880 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:128 INFO  StartPage :102 - Clicking on the 'DentalPractice: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //label[@id='label-wales']]
+2022-09-11 15:09:646 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:924 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:301 INFO  StartPage :91 - Clicking on the 'YesButton' button: Proxy element for: DefaultElementLocator 'By.xpath: //label[@id='label-wales']'
+2022-09-11 15:09:392 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:640 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:338 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:531 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:303 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:451 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:173 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:317 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:991 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:137 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:238 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:372 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:126 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:291 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:86 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d393300e3075e4aa96a69b0a1d337815)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:179 INFO  StartPage :65 - get Text From Help With nhs CostsProxy element for: DefaultElementLocator 'By.xpath: //body/main[@id='content']/div[3]/div[1]/div[1]/h2[1]'
+2022-09-11 15:09:217 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 15:09:85 INFO  StartPage :70 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 15:09:951 INFO  StartPage :75 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> id: next-button]
+2022-09-11 15:09:97 INFO  StartPage :86 - Clicking on the 'WalesCountry' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //label[@id='label-wales']]
+2022-09-11 15:09:789 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:00 INFO  StartPage :91 - Clicking on the 'YesButton' button: Proxy element for: DefaultElementLocator 'By.xpath: //label[@id='label-wales']'
+2022-09-11 15:09:888 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:157 INFO  StartPage :102 - Clicking on the 'DentalPractice: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //label[@id='label-wales']]
+2022-09-11 15:09:221 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:569 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:183 INFO  StartPage :91 - Clicking on the 'YesButton' button: Proxy element for: DefaultElementLocator 'By.xpath: //label[@id='label-wales']'
+2022-09-11 15:09:614 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:705 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:142 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:237 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:776 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:965 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:617 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:779 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:488 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:599 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:183 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:308 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:871 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:998 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:658 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (e2084fde32126364f4060b9d314efa5e)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:764 INFO  StartPage :65 - get Text From Help With nhs CostsProxy element for: DefaultElementLocator 'By.xpath: (//*[@id="result-heading"]/text())[2]'
+2022-09-11 15:09:139 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 15:09:748 INFO  StartPage :70 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 15:09:418 INFO  StartPage :75 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> id: next-button]
+2022-09-11 15:09:646 INFO  StartPage :86 - Clicking on the 'WalesCountry' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //label[@id='label-wales']]
+2022-09-11 15:09:417 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:647 INFO  StartPage :91 - Clicking on the 'YesButton' button: Proxy element for: DefaultElementLocator 'By.xpath: //label[@id='label-wales']'
+2022-09-11 15:09:997 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:301 INFO  StartPage :102 - Clicking on the 'DentalPractice: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //label[@id='label-wales']]
+2022-09-11 15:09:221 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:742 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:331 INFO  StartPage :91 - Clicking on the 'YesButton' button: Proxy element for: DefaultElementLocator 'By.xpath: //label[@id='label-wales']'
+2022-09-11 15:09:715 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:878 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:497 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:655 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:318 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:515 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:320 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:465 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:199 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:367 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:20 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:166 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:756 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:863 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:465 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:534 INFO  StartPage :65 - get Text From Help With nhs Costs[[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //body[1]/main[1]/div[2]/div[1]/h1[1]]
+2022-09-11 15:09:598 INFO  StartPage :65 - get Text From Help With nhs Costs[[ChromeDriver: chrome on WINDOWS (d2b7f5e54111a1563184cb01f760a56d)] -> xpath: //body[1]/main[1]/div[2]/div[1]/h1[1]]
+2022-09-11 15:09:93 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-09-11 15:09:301 INFO  StartPage :70 - Clicking on the 'AnalyticsCookies' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> id: nhsuk-cookie-banner__link_accept_analytics]
+2022-09-11 15:09:308 INFO  StartPage :75 - Clicking on the 'startNow' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> id: next-button]
+2022-09-11 15:09:458 INFO  StartPage :86 - Clicking on the 'WalesCountry' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //label[@id='label-wales']]
+2022-09-11 15:09:990 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:181 INFO  StartPage :91 - Clicking on the 'YesButton' button: Proxy element for: DefaultElementLocator 'By.xpath: //label[@id='label-wales']'
+2022-09-11 15:09:742 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:885 INFO  StartPage :102 - Clicking on the 'DentalPractice: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //label[@id='label-wales']]
+2022-09-11 15:09:452 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:394 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:560 INFO  StartPage :91 - Clicking on the 'YesButton' button: Proxy element for: DefaultElementLocator 'By.xpath: //label[@id='label-wales']'
+2022-09-11 15:09:138 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:260 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:710 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:804 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:332 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:454 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:86 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:193 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:73 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:169 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:603 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:701 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:189 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:300 INFO  StartPage :97 - Clicking on the 'noButton' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //label[@id='label-no']]
+2022-09-11 15:09:814 INFO  StartPage :80 - Clicking on the 'liveinpage' button: [[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //input[@id='next-button']]
+2022-09-11 15:09:855 INFO  StartPage :65 - get Text From Help With nhs Costs[[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //body[1]/main[1]/div[2]/div[1]/h1[1]]
+2022-09-11 15:09:894 INFO  StartPage :65 - get Text From Help With nhs Costs[[ChromeDriver: chrome on WINDOWS (8d30c6df29e07b12c906275c1ee3d146)] -> xpath: //body[1]/main[1]/div[2]/div[1]/h1[1]]
